@@ -24,8 +24,9 @@ namespace Koleksiyonlar
             Console.WriteLine(isimler2[2]);
             Console.WriteLine(isimler2[3]);
 
-            isimler = new string[5];
-            isimler[4] = "İLKER";
+
+
+            isimler2[4] = "İLKER";
             Console.WriteLine(isimler2[4]);
             Console.WriteLine(isimler2[0]);
         }
